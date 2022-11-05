@@ -6,7 +6,7 @@ out/
 .gradle/
 .gradle
 gradle/
-gradle
+gradle*
 .gradletasknamecache
 
 # IDE
