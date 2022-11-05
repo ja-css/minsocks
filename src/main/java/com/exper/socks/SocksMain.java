@@ -1,8 +1,8 @@
 package com.exper.socks;
 
 import com.exper.socks.config.SocksConfig;
-import com.exper.socks.out.SimpleSocksStreamManager;
-import com.exper.socks.out.SocksStreamManager;
+import com.exper.socks.output.SimpleSocksStreamManager;
+import com.exper.socks.output.SocksStreamManager;
 
 public class SocksMain {
     public static void main(String[] args) {

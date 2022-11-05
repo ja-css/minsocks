@@ -1,6 +1,6 @@
 package com.exper.socks;
 
-import com.exper.socks.out.SocksStream;
+import com.exper.socks.output.SocksStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

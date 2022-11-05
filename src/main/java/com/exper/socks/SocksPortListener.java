@@ -2,7 +2,7 @@ package com.exper.socks;
 
 import com.exper.socks.config.SocksConfig;
 import com.exper.socks.net.SocksException;
-import com.exper.socks.out.SocksStreamManager;
+import com.exper.socks.output.SocksStreamManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
